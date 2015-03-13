@@ -3,10 +3,10 @@
 class SiteController extends Controller
 {
 	// on htaccess
-	// http://localhost/smceframework.com/site/index
+	// http://localhost/project/site/index
 	
 	// off htaccess
-	// http://localhost/helloworld/index.php?route=/site/index
+	// http://localhost/project/index.php?route=/site/index
 	public function actionIndex()
 	{
 
